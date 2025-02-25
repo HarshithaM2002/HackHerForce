@@ -27,20 +27,29 @@ npm start
 
 4.Open http://localhost:3000/ in your browser.
 
-Key Features
-Uses React Router (BrowserRouter, Routes, Route) for navigation.
-Dashboard Component is the main entry point.
-Easily expandable with new routes and components.
+Key Features:  
 
-Code Explanation (App.js)
-Imports React and required modules (BrowserRouter, Route, Routes).
-Wraps the app inside a <Router> for navigation.
-Defines a single route (/) that loads the Dashboard component.
+*Uses React Router (BrowserRouter, Routes, Route) for navigation.  
 
-Future Enhancements
-Add more routes for additional pages.
-Implement authentication and protected routes.
-Integrate a state management solution like Redux.
+*Dashboard Component is the main entry point.
+
+*Easily expandable with new routes and components.
+
+Code Explanation (App.js):
+
+*Imports React and required modules (BrowserRouter, Route, Routes).
+
+*Wraps the app inside a <Router> for navigation.
+
+*Defines a single route (/) that loads the Dashboard component.
+
+Future Enhancements:
+
+*Add more routes for additional pages.
+
+*Implement authentication and protected routes.
+
+*Integrate a state management solution like Redux.
 
 Contributors  
 
