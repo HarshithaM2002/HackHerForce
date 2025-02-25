@@ -7,11 +7,14 @@ NAVIGATION
 HackHerForce Overview
 This is a simple React application that uses React Router for navigation. The application initializes a Router and defines a single route (/) that loads the Dashboard component.
 
-Technologies Used
-React.js: JavaScript library for building user interfaces.
+Technologies Used:  
+
+React.js: JavaScript library for building user interfaces.  
+
 React Router: Handles client-side routing.
 
 Installation & Setup
+
 1.Clone the repository:
 git clone <repo-url>
 cd project-directory
@@ -40,9 +43,12 @@ Implement authentication and protected routes.
 Integrate a state management solution like Redux.
 
 Contributors
-Deeksha CA
-Harshitha M
-Lekhana S
+Deeksha CA  
+
+Harshitha M  
+
+Lekhana S  
+
 Ruth R
 
 
