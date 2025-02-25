@@ -1,19 +1,21 @@
-<<<<<<< HEAD
-# HakerForce
+
+# HackherForce
 MEDISENSE: INTELLIGENT SYMPTOM
 ANALYSIS & SMART HEALTHCARE
 NAVIGATION
 ======= 
-HackHerForce Overview
+#HackHerForce Overview:
+======================
 This is a simple React application that uses React Router for navigation. The application initializes a Router and defines a single route (/) that loads the Dashboard component.
 
-Technologies Used:  
-
+#Technologies Used:  
+==================
 React.js: JavaScript library for building user interfaces.  
 
 React Router: Handles client-side routing.
 
-Installation & Setup
+#Installation & Setup
+====================
 
 1.Clone the repository:
 git clone <repo-url>
@@ -27,7 +29,8 @@ npm start
 
 4.Open http://localhost:3000/ in your browser.
 
-Key Features:  
+#Key Features:
+=============
 
 *Uses React Router (BrowserRouter, Routes, Route) for navigation.  
 
@@ -35,7 +38,8 @@ Key Features:
 
 *Easily expandable with new routes and components.
 
-Code Explanation (App.js):
+#Code Explanation (App.js):
+==========================
 
 *Imports React and required modules (BrowserRouter, Route, Routes).
 
@@ -51,7 +55,8 @@ Future Enhancements:
 
 *Integrate a state management solution like Redux.
 
-Contributors  
+#Contributors:
+=============
 
 Deeksha CA  
 
@@ -60,6 +65,3 @@ Harshitha M
 Lekhana S  
 
 Ruth R
-
-
->>>>>>> a1b44c1 (Initial commit)
