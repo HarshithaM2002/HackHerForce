@@ -42,7 +42,8 @@ Add more routes for additional pages.
 Implement authentication and protected routes.
 Integrate a state management solution like Redux.
 
-Contributors
+Contributors  
+
 Deeksha CA  
 
 Harshitha M  
